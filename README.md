@@ -8,13 +8,13 @@
 
 ---
 
-## 📦 Features
+## Features
 
-- ✅ **Recursive** scan of `.pmp` and `.ttmp2` files in the input directory  
-- 🚫 **Skips** files already processed to the output directory  
-- ⚡ **Parallel processing** with `GNU parallel`  
-- 🔧 Configurable via `.ini` or CLI arguments (CLI has priority)  
-- 🧪 Optional `--debug` mode for verbose logs  
+- **Recursive** scan of `.pmp` and `.ttmp2` files in the input directory  
+- **Skips** files already processed to the output directory  
+- **Parallel processing** with `GNU parallel`  
+- Configurable via `.ini` or CLI arguments (CLI has priority)  
+- Optional `--debug` mode for verbose logs  
 
 ---
 
@@ -96,7 +96,7 @@ chmod +x dtupdater.sh
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### `.ini` File
 

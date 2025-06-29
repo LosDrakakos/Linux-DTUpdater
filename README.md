@@ -119,8 +119,8 @@ CONSOLE_TOOL=~/bin/FFXIV_TexTools/ConsoleTools.exe
 ```
 
 You can modify it or override its values using CLI options.
-If provided with CLI option at first run, these values will be used to populate the config instead of defaults values.
-Be sure to check the if the `WINE_BINARY` Path exists, as I'm using a non default one from [here](https://github.com/rankynbass/unofficial-wine-xiv-git), and the current one I'm using is the default value.
+If provided with CLI option at first run, these values will be used to populate the config instead of defaults values.  
+⚠️ Be sure to check the if the `WINE_BINARY` Path exists, as I'm using a non default one from [here](https://github.com/rankynbass/unofficial-wine-xiv-git), and the current one I'm using is the default value.
 
 ---
 

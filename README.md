@@ -62,7 +62,7 @@ If you're using a default XIVLauncher setup just replace `<your-username>` with 
 
 Using the **same Wine binaries and Wine prefix** as you use to run the game, install the required .NET runtime:
 
-```
+```bash
 WINEPREFIX=~/.xlcore/wineprefix \
 WINE=~/.xlcore/compatibilitytool/wine/unofficial-wine-xiv-staging-ntsync-10.10/bin/wine \
 winetricks dotnet48

@@ -40,7 +40,7 @@ Make sure `ConsoleTools.exe` is present at:
 
 ### 2. Configure `console_config.json`
 
-Inside the TexTools directory, create or edit the file with your game path:
+Inside the TexTools directory, create or edit the file with your game path in Wine friendly format:
 
 ```
 ~/bin/FFXIV_TexTools/console_config.json

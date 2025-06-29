@@ -10,7 +10,8 @@
 
 ## Features
 
-- **Recursive** scan of `.pmp` and `.ttmp2` files in the input directory  
+- **Recursive** scan of `.pmp` and `.ttmp2` files in the input directory
+- Will reproduce folder structure of the input directory to the output directory
 - **Skips** files already processed to the output directory  
 - **Parallel processing** with `GNU parallel`  
 - Configurable via `.ini` or CLI arguments (CLI has priority)  

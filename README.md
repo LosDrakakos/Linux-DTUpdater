@@ -217,7 +217,7 @@ Replace `<user>` with your actual Linux username, and `example.ttmp2` with a fil
 
 Logs help me reproduce and resolve issues faster. Contributions and feedback are always welcome!
 
---
+---
 
 ## License
 
